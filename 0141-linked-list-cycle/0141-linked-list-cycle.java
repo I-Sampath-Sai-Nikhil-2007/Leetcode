@@ -14,15 +14,11 @@ public class Solution {
         if(head == null){
             return false;
         }
-        Map<ListNode, Integer> indexes = new HashMap<>();
-        int i=0;
-        while(!(indexes.containsKey(head))){
-            indexes.put(head, i++);
-            if(head.next == null){
-                return false;
-            }
+        Set<ListNode> seen = new HashSet<>();
+        while (head != null) {
+            if (!seen.add(head)) return true;
             head = head.next;
         }
-        return true;
+        return false;
     }
 }
