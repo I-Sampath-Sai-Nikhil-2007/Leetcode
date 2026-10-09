@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2396-strictly-palindromic-number](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0036-valid-sudoku) |
+| [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
@@ -66,8 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
