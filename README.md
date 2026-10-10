@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
 | [2396-strictly-palindromic-number](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
