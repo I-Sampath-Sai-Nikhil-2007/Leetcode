@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
+ListNode* sortList(ListNode* head){
     if (!head || !head->next) return head;
     int n = 0;
     for (ListNode* p = head; p; p = p->next) ++n;
