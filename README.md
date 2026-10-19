@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
