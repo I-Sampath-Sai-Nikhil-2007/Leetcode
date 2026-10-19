@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
