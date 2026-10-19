@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2396-strictly-palindromic-number](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/I-Sampath-Sai-Nikhil-2007/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
